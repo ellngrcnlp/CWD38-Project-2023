@@ -8,7 +8,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: oblique;
     font-stretch: wider;
-}
+    }
 h7 {
     font-weight: 120;
     font-size: 15px;
@@ -16,12 +16,12 @@ h7 {
     text-align: center;
     padding-left: 30px;
     padding-right: 30px;
-}
+    }
 nav, ul, li {
     font-weight: 120;
     font-size: 25px;
     font-family:Georgia, 'Times New Roman', Times, serif;
-}
+    }
 p {
     font-weight: 120;
     font-size: 13px;
@@ -30,10 +30,10 @@ p {
     padding-left: 30px;
     padding-right: 30px;
     text-indent: 5dvh;
-}
+    }
 .nav-wrapperc{
     box-shadow: none !important;
-}
+    }
 .collapsible-header {
     color: black;
     cursor: pointer;
@@ -47,22 +47,22 @@ p {
     font-size: 15px;
     border-radius: 10dvh;
     opacity: 0.6;
-}
+    }
 .collapsible-body {
     cursor: pointer;
     color: black;
     text-align: justify;
     font-size: 15px;
     font-family:Georgia, 'Times New Roman', Times, serif;
-}
+    }
 .slider .btn {
     margin-top: 20px;
     border-radius: 10%;
-}
+    }
 .page-footer .fa-3x {
     margin: 5px 10px;
     height: auto;
-}
+    }
 .card-panel {
     cursor: pointer;
     width: 100%;
@@ -73,12 +73,12 @@ p {
     font-size: 15px;
     opacity: 0.6;
     font-family:Georgia, 'Times New Roman', Times, serif;
-}
+    }
 .carousel-item {
     max-height: 100vh;
     overflow: hidden;
-}
+    }
 .carousel-item {
     max-height: 100vh;
     overflow: hidden;
-}
+    }
